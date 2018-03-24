@@ -1,7 +1,7 @@
 # R-Convenience-Functions-for-Jupyter
 Functions for conveniently using jupyter notebook as an R IDE, via the [IRkernel](https://github.com/IRkernel/IRkernel).
 
-##Loading Options
+## Loading Options
 ### Local
 Download this and put it somewhere convenient. Load it into R using:
 
